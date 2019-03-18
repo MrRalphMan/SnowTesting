@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="PR-Test" max_length="40" name="x_209612_testing_pr_test" type="collection">
+        <element choice="1" label="Option 1" max_length="40" name="option_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Option 2" max_length="40" name="option_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Option 3" max_length="40" name="option_3" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

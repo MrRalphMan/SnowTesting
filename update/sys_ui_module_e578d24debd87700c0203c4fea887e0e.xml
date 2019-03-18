@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="PR_Options">e978d24debd87700c0203c4fea887e0c</application>
+        <filter/>
+        <name>PR_Options</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_209612_testing.pr_options_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-03-18 14:43:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e578d24debd87700c0203c4fea887e0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PR_Options</sys_name>
+        <sys_package display_value="Testing" source="x_209612_testing">bf7f0249eb987700c0203c4fea887e67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing">bf7f0249eb987700c0203c4fea887e67</sys_scope>
+        <sys_update_name>sys_ui_module_e578d24debd87700c0203c4fea887e0e</sys_update_name>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-03-18 14:43:03</sys_updated_on>
+        <table>x_209612_testing_pr_options</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

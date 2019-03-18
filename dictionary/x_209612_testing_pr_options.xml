@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="PR_Options" max_length="40" name="x_209612_testing_pr_options" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element display="true" label="Options" max_length="40" name="options" type="string"/>
+        <element label="Parent" max_length="40" name="parent" type="string"/>
+    </element>
+</database>
